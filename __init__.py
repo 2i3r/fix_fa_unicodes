@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 trans_table = {
 	u'\u0643': u'\u06a9',
