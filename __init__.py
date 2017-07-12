@@ -10,3 +10,4 @@ trans_table = {
 def fa_unicode_correct(s):
     for k in trans_table.keys():
         s = s.replace(k, trans_table[k]);
+    return s;
